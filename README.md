@@ -9,3 +9,5 @@ like the one found in the Moog Sub Phatty, just voltage controlled resonance and
 It was designed as a single side PCB for homade DIY, you should check for compatibility with PCB 
 manufacturers if you want to use their services. 
 More information at www.youtube.com/@unrelatedactivities
+
+<IMG src="/Moog_VCF_v1c/Moog VCF_VC_RES_01c_SCH.jpg">
